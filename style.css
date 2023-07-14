@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+    font-family: 'New Rocker', cursive;
+}
+
+.heading{
+    margin:0px;
+    width:100%;
+}
+
+.note{
+    color:white;
+}
+
+#playing_song{
+    font-size:30px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
+
+.button{
+    width:100px;
+    font-size: 25px;
+}
